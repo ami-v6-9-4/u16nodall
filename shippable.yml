@@ -16,6 +16,6 @@ build:
     
   pre_ci_boot:
     image_name: drydock/u16nodall
-    image_tag: master
+    image_tag: v6.1.4
     pull: true
     
