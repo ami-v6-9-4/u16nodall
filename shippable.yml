@@ -12,3 +12,4 @@ node_js:
 build:
   ci:
     - node --version
+    - docker pull shippabledocker/sample_node_pvt:ecr
